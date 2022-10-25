@@ -13,4 +13,8 @@
 
 <a href="https://www.instagram.com/khanduri.grv/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
+</br>
 
+### Technical skills:
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
