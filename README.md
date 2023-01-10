@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Maritime Robotics platforms.
 - 🌱 I’m currently learning SLAM and Modelling algorithms.
-- ⚡ Fun fact: I love to play snooker and travelling.
+- ⚡ Fun fact: I play snooker and Love travelling.
 
 ### Connect with me:
 
