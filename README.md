@@ -1,11 +1,11 @@
 ### Hi there, I'm Gourav Khanduri 👋
-### I'm an Mechanical Engineering graduate and Speacialisation in Robotics and Automation. 
+### I'm an Mechanical Engineering graduate Speacialized on Robotics and Automation. 
 
 
 
 - 🔭 I’m currently working on Maritime Robotics platforms.
 - 🌱 I’m currently learning SLAM and Modelling algorithms.
-- ⚡ Fun fact: I play snooker and Love travelling.
+- ⚡ Fun fact: cracking humurous jokes on friends.
 
 ### Connect with me:
 
